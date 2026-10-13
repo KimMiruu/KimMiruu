@@ -22,7 +22,7 @@ Halo, saya **Irfing Adrian** — Fullstack Developer yang membangun aplikasi web
 
 - 💼 Berpengalaman membangun aplikasi yang berjalan di **production** — dari API sampai UI, termasuk perbaikan bug, caching, dan payment gateway
 - 🧠 Fokus saya: arsitektur backend yang bersih, performa, dan pengalaman pengguna
-- 🌱 Sedang mendalami **payment gateway**, **caching**, dan **clean architecture**
+- 🌱 Sedang mendalami **caching**, **clean architecture**, dan **developer tooling**
 - 🎨 Memiliki ketertarikan pada **UI/UX**, khususnya konsistensi design system dan aksesibilitas
 - 🎓 Lulusan **S1 Informatika — Universitas Mercu Buana (2022–2026)**, IPK **3.83**
 - 📫 Terbuka untuk diskusi, kolaborasi, dan peluang baru — jangan sungkan menghubungi saya
@@ -136,8 +136,6 @@ Project pribadi & tugas kuliah yang saya bagikan terbuka di GitHub.
   `JavaScript` · `MySQL`
 - **[smart_recomendation_Film](https://github.com/KimMiruu/smart_recomendation_Film)** — **Cinefy**, rekomendasi film dengan *voice search*, riwayat pencarian, dan chatbot.
   `Laravel` · `Blade`
-
-> ℹ️ Source code proyek di atas bersifat **private** karena menyangkut kerja sama tim — tersedia jika dibutuhkan.
 
 ## ⚙️ Cara Kerja Saya
 
