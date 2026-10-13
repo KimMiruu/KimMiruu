@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7C3AED,A78BFA,4F46E5,22D3EE&height=210&section=header&text=Irfing%20Adrian&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20%7C%20Backend%20%2B%20Frontend%20%7C%20UI%2FUX&descAlignY=58&descSize=20" alt="Irfing Adrian — Fullstack Developer" width="100%" />
+<img src="assets/header.svg" alt="Irfing Adrian — Fullstack Developer" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&height=180&lines=Selamat+datang+di+profil+GitHub+saya+%F0%9F%91%8B;Fullstack+Developer+%E2%80%94+dari+REST+API+sampai+antarmuka;Fokus%3A+Backend%2C+Database%2C+dan+Clean+Architecture;Terus+belajar+dan+berkembang+setiap+hari+%F0%9F%9A%80" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&height=160&lines=Selamat+datang+di+profil+GitHub+saya+%F0%9F%91%8B;Membangun+REST+API%2C+database%2C+sampai+antarmuka;Fokus%3A+arsitektur+backend+yang+bersih+dan+performa;Terus+belajar+dan+berkembang+setiap+hari+%F0%9F%9A%80" alt="Typing animation" />
 
 <br>
 
@@ -14,7 +14,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=7C3AED,A78BFA,22D3EE&height=4" alt="" width="100%" />
+<br>
 
 ## 👋 Tentang Saya
 
@@ -22,14 +22,28 @@ Halo, saya **Irfing Adrian** — Fullstack Developer yang membangun aplikasi web
 
 - 💼 Berpengalaman membangun aplikasi yang berjalan di **production** — dari API sampai UI, termasuk perbaikan bug, caching, dan payment gateway
 - 🧠 Fokus saya: arsitektur backend yang bersih, performa, dan pengalaman pengguna
-- 🌱 Sedang mendalami **caching**, **clean architecture**, dan **developer tooling**
+- 🌱 Sedang memperdalam **arsitektur backend**, **caching**, **containerization**, dan **automasi development**
 - 🎨 Memiliki ketertarikan pada **UI/UX**, khususnya konsistensi design system dan aksesibilitas
 - 🎓 Lulusan **S1 Informatika — Universitas Mercu Buana (2022–2026)**, IPK **3.83**
 - 📫 Terbuka untuk diskusi, kolaborasi, dan peluang baru — jangan sungkan menghubungi saya
 
 > 📌 Akun lama saya [`adrianrizzz`](https://github.com/adrianrizzz) sudah tidak aktif. Seluruh aktivitas, portofolio, dan proyek kini berada di akun ini **[KimMiruu](https://github.com/KimMiruu)**.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=22D3EE,A78BFA,7C3AED&height=3" alt="" width="100%" />
+<br>
+
+## 📊 Skill Overview
+
+<div align="center">
+
+<img src="assets/skills.svg" alt="Rekap skill teknis" width="100%" />
+
+<br><br>
+
+<img src="assets/learning.svg" alt="Teknologi yang sedang dipelajari" width="100%" />
+
+</div>
+
+<br>
 
 ## 🧰 Tech Stack
 
@@ -70,7 +84,7 @@ Halo, saya **Irfing Adrian** — Fullstack Developer yang membangun aplikasi web
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=7C3AED,A78BFA,22D3EE&height=3" alt="" width="100%" />
+<br>
 
 ## 🚀 Proyek Pilihan
 
@@ -118,7 +132,7 @@ Kontribusi utama saya:
 - 📱 **Antarmuka responsif** dengan pendekatan *mobile-first*
 - 🛠️ **Optimasi performa** dan perbaikan bug di production
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=22D3EE,A78BFA,7C3AED&height=3" alt="" width="100%" />
+<br>
 
 ## 📂 Repositori Publik
 
@@ -154,15 +168,12 @@ Project pribadi & tugas kuliah yang saya bagikan terbuka di GitHub.
 ![PHKM](https://img.shields.io/badge/PHKM-Bronze_Medal-CD7F32?style=for-the-badge)
 ![PKM](https://img.shields.io/badge/Program_Kreativitas_Mahasiswa-PKM-7C3AED?style=for-the-badge&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=7C3AED,A78BFA,22D3EE&height=4" alt="" width="100%" />
-
 <div align="center">
 
-### Terima kasih sudah mengunjungi 💜
+<img src="assets/footer.svg" alt="Terima kasih sudah mengunjungi" width="100%" />
 
-*Tersedia untuk diskusi, kolaborasi, dan peluang baru.*
+<br>
+
 **Hubungi saya:** [LinkedIn](https://linkedin.com/in/irfing-adrian) · [Email](mailto:irfingsanah98@gmail.com) · [Portfolio](https://irfing-adrian-porto.vercel.app)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7C3AED,A78BFA,4F46E5,22D3EE&height=90&section=footer&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="footer" width="100%" />
 
 </div>

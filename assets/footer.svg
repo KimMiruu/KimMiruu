@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1200 120" fill="none" role="img" aria-label="Terima kasih">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1200" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#080E1C"/>
+      <stop offset="50%" stop-color="#140E2C"/>
+      <stop offset="100%" stop-color="#0A0A14"/>
+    </linearGradient>
+    <linearGradient id="fwave" x1="0" y1="60" x2="1200" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="50%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <radialGradient id="fglow" cx="0" cy="0" r="1" gradientTransform="translate(600 120) rotate(-90) scale(120 620)" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="120" fill="url(#fbg)"/>
+  <rect width="1200" height="120" fill="url(#fglow)"/>
+
+  <path d="M0 96 C 150 70, 250 122, 400 96 S 650 70, 800 96 S 1050 122, 1200 96 L 1200 120 L 0 120 Z" fill="url(#fwave)" opacity="0.30"/>
+  <path d="M0 96 C 150 70, 250 122, 400 96 S 650 70, 800 96 S 1050 122, 1200 96" stroke="url(#fwave)" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+  <text x="600" y="56" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="0.5" fill="#FFFFFF">Terima kasih sudah mengunjungi</text>
+  <text x="600" y="82" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#A9AECD">mari terhubung — kirim pesan kapan saja</text>
+
+  <circle cx="520" cy="20" r="3" fill="#A78BFA" opacity="0.85"/>
+  <circle cx="600" cy="14" r="4" fill="#C4B5FD"/>
+  <circle cx="680" cy="20" r="3" fill="#22D3EE" opacity="0.85"/>
+</svg>
