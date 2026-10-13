@@ -151,28 +151,6 @@ Project pribadi & tugas kuliah yang saya bagikan terbuka di GitHub.
 ![PHKM](https://img.shields.io/badge/PHKM-Bronze_Medal-CD7F32?style=for-the-badge)
 ![PKM](https://img.shields.io/badge/Program_Kreativitas_Mahasiswa-PKM-7C3AED?style=for-the-badge&logoColor=white)
 
-## 📊 Statistik GitHub
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img height="185" src="https://github-readme-stats.vercel.app/api?username=KimMiruu&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="Statistik GitHub KimMiruu" />
-    </td>
-    <td width="50%" align="center">
-      <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimMiruu&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" alt="Bahasa pemrograman paling sering digunakan" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img height="70" src="https://streak-stats.demolab.com?user=KimMiruu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=7C3AED,A78BFA,22D3EE&height=4" alt="" width="100%" />
 
 <div align="center">
