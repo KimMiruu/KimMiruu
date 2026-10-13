@@ -10,12 +10,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-irfing--adrian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irfing-adrian)
 [![Email](https://img.shields.io/badge/Email-irfingsanah98@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irfingsanah98@gmail.com)
 [![Followers](https://img.shields.io/github/followers/KimMiruu?style=for-the-badge&logo=github&color=7C3AED&label=Followers)](https://github.com/KimMiruu)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7C3AED?style=for-the-badge&logo=hackernoon&logoColor=white)](mailto:irfingsanah98@gmail.com?subject=Peluang%20Kolaborasi)
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=7C3AED,A78BFA,22D3EE&height=4" alt="" width="100%" />
-
----
 
 ## 👋 Tentang Saya
 
@@ -125,14 +124,20 @@ Kontribusi utama saya:
 
 Project pribadi & tugas kuliah yang saya bagikan terbuka di GitHub.
 
-| Repository | Deskripsi | Tech |
-|:---|:---|:---|
-| [POS_Java](https://github.com/KimMiruu/POS_Java) | Aplikasi kasir (POS) untuk mengelola produk, transaksi, dan penjualan harian | Java · Swing · MySQL |
-| [sistem-informasi-manajemen-perkuliahan](https://github.com/KimMiruu/sistem-informasi-manajemen-perkuliahan) | Sistem informasi akademik: data mahasiswa, mata kuliah, dosen, dan nilai | JavaScript · MySQL |
-| [sistem-manajemen-keuangan-sederhana](https://github.com/KimMiruu/sistem-manajemen-keuangan-sederhana) | Manajemen keuangan pribadi: catatan pemasukan, pengeluaran, dan saldo otomatis | PHP · CodeIgniter 3 |
-| [portal-berita](https://github.com/KimMiruu/portal-berita) | Portal berita **YouRead** dengan integrasi News API dan desain responsif | Laravel · Blade · Bootstrap |
-| [Tracking-kalori-system](https://github.com/KimMiruu/Tracking-kalori-system) | Tracking kalaori harian, nutrisi, latihan, plus rekomendasi makanan personal | JavaScript · MySQL |
-| [smart_recomendation_Film](https://github.com/KimMiruu/smart_recomendation_Film) | **Cinefy** — rekomendasi film dengan *voice search*, riwayat pencarian, dan chatbot | Laravel · Blade |
+- **[POS_Java](https://github.com/KimMiruu/POS_Java)** — Aplikasi kasir (POS) untuk mengelola produk, transaksi, dan penjualan harian.
+  `Java` · `Swing` · `MySQL`
+- **[sistem-informasi-manajemen-perkuliahan](https://github.com/KimMiruu/sistem-informasi-manajemen-perkuliahan)** — Sistem informasi akademik: data mahasiswa, mata kuliah, dosen, dan nilai.
+  `JavaScript` · `MySQL`
+- **[sistem-manajemen-keuangan-sederhana](https://github.com/KimMiruu/sistem-manajemen-keuangan-sederhana)** — Manajemen keuangan pribadi: catatan pemasukan, pengeluaran, dan saldo otomatis.
+  `PHP` · `CodeIgniter 3`
+- **[portal-berita](https://github.com/KimMiruu/portal-berita)** — Portal berita **YouRead** dengan integrasi News API dan desain responsif.
+  `Laravel` · `Blade` · `Bootstrap`
+- **[Tracking-kalori-system](https://github.com/KimMiruu/Tracking-kalori-system)** — Tracking kalaori harian, nutrisi, latihan, plus rekomendasi makanan personal.
+  `JavaScript` · `MySQL`
+- **[smart_recomendation_Film](https://github.com/KimMiruu/smart_recomendation_Film)** — **Cinefy**, rekomendasi film dengan *voice search*, riwayat pencarian, dan chatbot.
+  `Laravel` · `Blade`
+
+> ℹ️ Source code proyek di atas bersifat **private** karena menyangkut kerja sama tim — tersedia jika dibutuhkan.
 
 ## ⚙️ Cara Kerja Saya
 
