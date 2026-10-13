@@ -21,8 +21,8 @@
 Halo, saya **Irfing Adrian** — Fullstack Developer yang membangun aplikasi web dari ujung ke ujung: dari perancangan **REST API**, desain **database**, sampai **antarmuka** yang rapi dan responsif. Saya percaya kode yang bagus adalah kode yang mudah dibaca, mudah dites, dan mudah diperbaiki.
 
 - 💼 Berpengalaman membangun aplikasi yang berjalan di **production** — dari API sampai UI, termasuk perbaikan bug, caching, dan payment gateway
-- 🧠 Fokus saya: arsitektur backend yang bersih, performa, dan pengalaman pengguna
-- 🌱 Sedang mendalami **caching**, **clean architecture**, dan **developer tooling**
+- 🧠 Fokus saya: arsitektur backend yang bersih, desain frontend yang cantik, performa, dan pengalaman pengguna
+- 🌱 Sedang mendalami **caching**, **clean architecture**, **new tech stack** dan **developer tooling**
 - 🎨 Memiliki ketertarikan pada **UI/UX**, khususnya konsistensi design system dan aksesibilitas
 - 🎓 Lulusan **S1 Informatika — Universitas Mercu Buana (2022–2026)**, IPK **3.83**
 - 📫 Terbuka untuk diskusi, kolaborasi, dan peluang baru — jangan sungkan menghubungi saya
