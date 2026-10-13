@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7C3AED,A78BFA,4F46E5,22D3EE&height=210&section=header&text=Irfing%20Adrian&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20%7C%20Backend%20%2B%20Frontend%20%7C%20UI%2FUX&descAlignY=58&descSize=20" alt="Irfing Adrian — Fullstack Developer" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&height=180&lines=Selamat+datang+di+profil+GitHub+saya+%F0%9F%91%8B;Fullstack+Developer+%E2%80%94+dari+REST+API+sampai+antarmuka;Saat+ini%3A+Fullstack+Developer+Intern+%40+IFCNews;Terus+belajar+dan+berkembang+setiap+hari+%F0%9F%9A%80" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&height=180&lines=Selamat+datang+di+profil+GitHub+saya+%F0%9F%91%8B;Fullstack+Developer+%E2%80%94+dari+REST+API+sampai+antarmuka;Fokus%3A+Backend%2C+Database%2C+dan+Clean+Architecture;Terus+belajar+dan+berkembang+setiap+hari+%F0%9F%9A%80" alt="Typing animation" />
 
 <br>
 
@@ -21,7 +21,7 @@
 
 Halo, saya **Irfing Adrian** — Fullstack Developer yang membangun aplikasi web dari ujung ke ujung: dari perancangan **REST API**, desain **database**, sampai **antarmuka** yang rapi dan responsif. Saya percaya kode yang bagus adalah kode yang mudah dibaca, mudah dites, dan mudah diperbaiki.
 
-- 💼 Saat ini menjadi **Fullstack Developer Intern** pada aplikasi yang berjalan di **production**
+- 💼 Berpengalaman membangun aplikasi yang berjalan di **production** — dari API sampai UI, termasuk perbaikan bug, caching, dan payment gateway
 - 🧠 Fokus saya: arsitektur backend yang bersih, performa, dan pengalaman pengguna
 - 🌱 Sedang mendalami **payment gateway**, **caching**, dan **clean architecture**
 - 🎨 Memiliki ketertarikan pada **UI/UX**, khususnya konsistensi design system dan aksesibilitas
@@ -79,7 +79,7 @@ Halo, saya **Irfing Adrian** — Fullstack Developer yang membangun aplikasi web
 
 > Platform berita keuangan dan analisis saham untuk investor ritel Indonesia · **[🔗 ifcnews.id](https://ifcnews.id)**
 
-**Peran:** Fullstack Developer Intern · **Stack:** FastAPI · React · TypeScript · MongoDB · Redis · Railway · Midtrans
+**Kontribusi saya:** · **Stack:** FastAPI · React · TypeScript · MongoDB · Redis · Railway · Midtrans
 
 Kontribusi utama saya:
 
