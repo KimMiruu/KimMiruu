@@ -134,6 +134,8 @@ Project pribadi & tugas kuliah yang saya bagikan terbuka di GitHub.
   `Laravel` · `Blade` · `Bootstrap`
 - **[Tracking-kalori-system](https://github.com/KimMiruu/Tracking-kalori-system)** — Tracking kalaori harian, nutrisi, latihan, plus rekomendasi makanan personal.
   `JavaScript` · `MySQL`
+- **[calorie-tracker-mobile](https://github.com/KimMiruu/calorie-tracker-mobile)** — **SimpleFit Mobile**, versi mobile dari sistem tracking kalori: pencatatan makanan harian, makro, air, workout, progres, dan rekomendasi makanan personal.
+  `Expo` · `React Native` · `TypeScript` · `SQLite`
 - **[smart_recomendation_Film](https://github.com/KimMiruu/smart_recomendation_Film)** — **Cinefy**, rekomendasi film dengan *voice search*, riwayat pencarian, dan chatbot.
   `Laravel` · `Blade`
 
